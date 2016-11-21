@@ -1,2 +1,7 @@
-# visualizing_program_evolution
-Visualizing the evolution of a program to fit data. 
+# data-optim
+
+A Clojure app to ... well, that part is up to you.
+
+## Usage
+
+FIXME
